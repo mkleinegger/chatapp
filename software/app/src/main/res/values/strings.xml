@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <!--hints-->
+    <string name="hint_username">Username</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_fullname">Full Name</string>
+    <string name="hint_chatmessage">   Type a message...</string>
+    <string name="hint_repeat_password">Repeat Password</string>
+    <!--texts-->
+    <string name="text_register">No account? Register here!</string>
+    <string name="register">Register</string>
+    <string name="txtName">Contact Name</string>
+    <string name="txtLastChat">Last Message</string>
+    <string name="imgProfile">Profile Picture</string>
+    <string name="profile_name">Full Name:</string>
+    <string name="profile_username">Username:</string>
+    <string name="logout">Logout</string>
+    <string name="refresh">Refresh</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="deleteProfile">Delete Profile</string>
+    <string name="confirm_delete_Profile">Confirm that you want to delete your profile</string>
+    <string name="emptyPasswordField">Password can not be empty</string>
+    <string name="emptyMessage">You cant send empty message</string>
+    <string name="add_group">Add Group</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_members">Members: </string>
+    <string name="deletePopUpMessage">Do you want to delete this %1$s?</string>
+    <string name="deletePopUpTitle">Delete Message</string>
+    <string name="sendToPopUpMessage">Do you want to send this %1$s to?</string>
+    <string name="sendToPopUpTitle">Send to ...</string>
+    <string name="seenBy">seen</string>
+    <string name="notSeenBy">not seen</string>
+    <string name="placeholderMessage">Placeholder message</string>
+    <string name="messageInfo">Message Information</string>
+    <string name="sendTo">Send to ...</string>
+    <string name="text_username">username</string>
+    <string name="text_fullname">fullname</string>
+    <string name="picture">&#128247; Picture</string>
+    <!--Buttons-->
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="btnSaveEditedProfile">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnAddUser">Add User</string>
+    <string name="btnDelete">Delete</string>
+    <string name="popUpBtnNo">NO</string>
+    <string name="popUpBtnYes">Yes</string>
+    <!--Menus-->
+    <string name="menu_moreInformation">More Information</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_sendTo">Send to</string>
+    <string name="menu_info">Information</string>
+</resources>

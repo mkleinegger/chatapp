@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "310412688302",
+    "firebase_url": "https://chatapp-c2802.firebaseio.com",
+    "project_id": "chatapp-c2802",
+    "storage_bucket": "chatapp-c2802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310412688302:android:fee4d275aa19616a",
+        "android_client_info": {
+          "package_name": "at.htl_villach.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310412688302-be4jspctqpas63q03vs3qjstct7udjeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.htl_villach.chatapplication",
+            "certificate_hash": "aae8d74ae4b1346453750b62a3bcb63f1d2e2618"
+          }
+        },
+        {
+          "client_id": "310412688302-d48mjcqcp0c30ihjem5umrfqthns0aqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.htl_villach.chatapplication",
+            "certificate_hash": "632e9311f395573f663af3ede23143afaea8029c"
+          }
+        },
+        {
+          "client_id": "310412688302-3vuniidko7or2l41dn5aunljfii3mr5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.htl_villach.chatapplication",
+            "certificate_hash": "5201a7388f52eb17f77ee332d85498949e16e456"
+          }
+        },
+        {
+          "client_id": "310412688302-aoudc9vc5qia8sgc4u0uck3b2mk70noj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKDiYkQCq1blUxkPgYs5ChG5IGK2Kazw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310412688302-aoudc9vc5qia8sgc4u0uck3b2mk70noj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310412688302:android:77e13428a70588e3",
+        "android_client_info": {
+          "package_name": "com.example.testcontrols"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310412688302-2uf8kf1qla8jigr11d0p2f4s2on4jbjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testcontrols",
+            "certificate_hash": "5201a7388f52eb17f77ee332d85498949e16e456"
+          }
+        },
+        {
+          "client_id": "310412688302-aoudc9vc5qia8sgc4u0uck3b2mk70noj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKDiYkQCq1blUxkPgYs5ChG5IGK2Kazw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310412688302-aoudc9vc5qia8sgc4u0uck3b2mk70noj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
